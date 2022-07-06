@@ -1,0 +1,19 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "My ",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Ajirthan B",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^2.2.36"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
